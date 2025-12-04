@@ -1,4 +1,4 @@
-# Labbotarium Python 7
+# Labotarium Python 7
 ## Program class untuk menampilkan daftar nilai mahasiswa
 Program ini merupakan implementasi konsep Object Oriented Programming (OOP) pada bahasa pemrograman Python untuk mengelola daftar nilai mahasiswa.
 Program memiliki kemampuan untuk menambah, menampilkan, menghapus, dan mengubah data mahasiswa menggunakan method dalam class.
